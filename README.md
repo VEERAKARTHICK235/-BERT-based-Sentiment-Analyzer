@@ -26,4 +26,4 @@ streamlit run app.py
 VEERA KARTHICK |
 Pre-Final Year – Artificial Intelligence & Data Science |
 Shree Venkateshwara Hi Tech Engineering College |
-🚀 Passionate about GenAI, NLP, and real-world AI solutions |.
+🚀 Passionate about GenAI, NLP, and real-world AI solutions |
