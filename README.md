@@ -1,27 +1,22 @@
-# 💬 BERT-Based Sentiment Analyzer
+# BERT-based Sentiment Analyzer (with BERTweet)
 
-A simple, powerful sentiment analysis web app built using a pre-trained BERT model and deployed with Streamlit. It classifies input text into **positive**, **negative**, or **neutral** sentiments.
+This app uses Hugging Face's `bertweet-base-sentiment-analysis` model to predict sentiment on any sentence or word.
 
----
+## 💻 How to Run
 
-## 🔧 Features
+1. Install the required packages:
 
-- ✅ Clean and preprocess raw text
-- 🤖 Classify sentiment using pre-trained BERT
-- 🌐 Simple Streamlit UI for user input
-- 🧠 Fine-tunable model with custom dataset
-- 📦 Easily deployable
+```bash
+pip install -r requirements.txt
+```
 
----
+2. Run the app:
 
-## 🧪 Example Sentences
-Input	Prediction
-"I like this airline!"	🙂 Positive
-"The flight was delayed again."	😠 Negative
-"Okay experience, nothing much."	😐 Neutral
+```bash
+streamlit run app.py
+```
 
-## 👨‍💻 Developed by
-VEERA KARTHICK
-Pre-Final Year – Artificial Intelligence & Data Science
-Shree Venkateshwara Hi Tech Engineering College
-🚀 Passionate about GenAI, NLP, and real-world AI solutions.
+3. Try sentences like:
+- I am very happy today → 🙂 Positive
+- This is so sad → 😠 Negative
+- Just an average day → 😐 Neutral
