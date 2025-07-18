@@ -1,4 +1,4 @@
-# BERT-based Sentiment Analyzer (with BERTweet)
+# BERT-based Sentiment Analyzer 
 
 This app uses Hugging Face's `bertweet-base-sentiment-analysis` model to predict sentiment on any sentence or word.
 
@@ -20,3 +20,10 @@ streamlit run app.py
 - I am very happy today → 🙂 Positive
 - This is so sad → 😠 Negative
 - Just an average day → 😐 Neutral
+
+
+## 👨‍💻 Developed by
+VEERA KARTHICK
+Pre-Final Year – Artificial Intelligence & Data Science
+Shree Venkateshwara Hi Tech Engineering College
+🚀 Passionate about GenAI, NLP, and real-world AI solutions.
