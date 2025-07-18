@@ -23,7 +23,7 @@ streamlit run app.py
 
 
 ## 👨‍💻 Developed by
-VEERA KARTHICK
-Pre-Final Year – Artificial Intelligence & Data Science
-Shree Venkateshwara Hi Tech Engineering College
-🚀 Passionate about GenAI, NLP, and real-world AI solutions.
+VEERA KARTHICK |
+Pre-Final Year – Artificial Intelligence & Data Science |
+Shree Venkateshwara Hi Tech Engineering College |
+🚀 Passionate about GenAI, NLP, and real-world AI solutions |.
